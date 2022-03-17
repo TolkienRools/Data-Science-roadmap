@@ -216,3 +216,5 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | To Do |
 | [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | To Do |
 
+Переделанный вариант этого roadmap(https://github.com/SergeyShk/DataScience-Roadmap/blob/master/README.md)
+
