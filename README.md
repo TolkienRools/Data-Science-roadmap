@@ -27,6 +27,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/129/syllabus) | Анализ данных в R | To Do |
 | [Stepik](https://stepik.org/course/724/syllabus) | Анализ данных в R. Часть 2 | To Do |
+| [Coursera](https://www.coursera.org/specializations/data-science-foundations-r) | Data Science: Foundations using R Specialization | To Do |
 
 ### Scala
 #### Courses
