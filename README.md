@@ -207,6 +207,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | To Do |
+| [Coursera](https://www.coursera.org/specializations/tableau-for-data-science-workflows) | Use Tableau for Your Data Science Workflow Specialization | To Do |
 
 ## Soft Skills
 #### Courses
