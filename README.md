@@ -60,7 +60,6 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | To Do |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | To Do |
 | [Stepik](https://stepik.org/course/4852) | Введение в Data Science и машинное обучение | To Do |
 #### Books
