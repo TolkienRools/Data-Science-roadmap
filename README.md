@@ -47,6 +47,7 @@ My roadmap to study Data Science.
 | [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | To Do |
 | [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | To Do |
 | [YouTube](https://www.youtube.com/c/pavelmavrin) | АиСД year2019 (s1, s2, s3, s4) | To Do |
+| [Coursera](https://www.coursera.org/specializations/data-structures-algorithms) | Data Structures and Algorithms Specialization | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -135,6 +136,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | To Do |
+| [Coursera](https://www.coursera.org/professional-certificates/ibm-data-engineer) | IBM Data Engineering Professional Certificate | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
