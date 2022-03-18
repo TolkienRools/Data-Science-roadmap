@@ -13,7 +13,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/67) | Программирование на Python | To Do |
 | [PY4e](https://www.py4e.com/lessons) | Python for Everybody (PY4E) | To Do |
-| [MITOPENCOURSEWARE](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) | Introduction to Computer Science and Programming in Python | To Do |
+| [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm) | Introduction to Computer Science and Programming in Python | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -167,7 +167,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | To Do |
 | [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | To Do |
-| [MITOPENCOURSEWARE](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | Linear Algebra | To Do |
+| [MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | Linear Algebra | To Do |
 
 ### Statistics & Probability theory
 #### Courses
@@ -177,8 +177,8 @@ My roadmap to study Data Science.
 | [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | To Do |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do |
 | [Stepik](https://stepik.org/course/3089/) | Теория вероятностей | To Do |
-| [MITOPENCOURSEWARE](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | Probabilistic Systems Analysis and Applied Probability | To Do |
-| [MITOPENCOURSEWARE](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | Statistics for Applications | To Do |
+| [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | Probabilistic Systems Analysis and Applied Probability | To Do |
+| [MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | Statistics for Applications | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
